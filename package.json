@@ -1,0 +1,35 @@
+{
+  "name": "tgbot-glitch",
+  "version": "1.0.0",
+  "description": "Telegram Bot on Glitch Platform",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": "6.9.x"
+  },
+  "keywords": [],
+  "author": "Indra W<indra.x.stream@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.6.10",
+    "tracery-grammar": "^2.7.3",
+    "opla": "^0.0.1",
+    "path": "^0.12.7",
+    "express": "^4.16.4",
+    "fs": "^0.0.2",
+    "log-to-file": "^1.2.2",
+    "suncalc": "^1.8.0",
+    "node-red-contrib-schedex": "^1.6.0",
+    "homebridge-weather-plus": "^2.7.2",
+    "homebridge-weather": "^1.9.2",
+    "openweather-apis": "^4.0.0",
+    "weather-js": "^2.0.0",
+    "forecastio": "^2.0.0",
+    "channel-telegram-bot": "^1.0.0"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/bglibot"
+  }
+}

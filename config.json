@@ -1,0 +1,8 @@
+"accessories": [
+    {
+      "accessory": "Weather",
+      "apikey": "61745702c10b08d4c38c71b61c0fc590",
+      "location": "Novosibirsk,de",
+      "name": "OpenWeatherMap Temperature"
+    }
+]
